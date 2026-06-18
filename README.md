@@ -1,4 +1,4 @@
-# Multi Agent Bot
+# Multi Agent Bot Sytem 
 
 A **RAG-powered Telegram assistant** for groups. Four AI personas answer member questions using official docs, admin announcements, and community history.
 
